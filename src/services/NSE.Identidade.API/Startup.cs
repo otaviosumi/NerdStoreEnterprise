@@ -17,6 +17,7 @@ namespace NSE.Identidade.API
     {
         public Startup(IConfiguration configuration)
         {
+
             Configuration = configuration;
         }
 
